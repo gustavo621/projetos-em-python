@@ -1,2 +1,2 @@
-# projetos-em-pyton
- Projetos para testar e desenvolver o apredizado na linguagem
+# projetos-em-python
+ projetos para testar desenvover o aprendizado na linguagem python
